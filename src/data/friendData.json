@@ -1,0 +1,101 @@
+[{
+    "id": 1,
+    "image": "/assets/images/beth.png",
+    "clicked": false,
+    "content":  "Coolant Temp Warning.",
+    "rating": 5,
+    "info": "This means your car is too hot. Pull over and if temperature stays high, exit vehicle and call for help."
+    
+
+    
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/birdperson.png",
+    "clicked": false,
+    "content":"Oil Indicator.",
+    "rating": 4,
+    "info": "This icon is telling you to check your oil. Not to worry at this moment, but make sure to check your oil soon."
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/evilmorty.png",
+    "clicked": false,
+    "content": "Battery Indicator",
+    "rating": 3,
+    "info":"This means you are running on battery. While not a hazard, long battery-only use is not recommended."
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/gianthead.png",
+    "clicked": false,
+    "content": "Brake System Indicator",
+    "rating": 4,
+    "info": "Indicates one of 3 things: parking brake is on, problem with the braking system/fluid, or ABS problem. Professional opinion recommended."
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/goldenford.png",
+    "clicked": false,
+    "content": "Check Engine Light ",
+    "rating": 5,
+    "info": "Indicates the engine computer has a Diagnostic Trouble Code (DTC). If icon is blinking, IMMEDIATE professional diagnosis recommended. "
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/jerry.png",
+    "clicked": false,
+    "content": "Anti-Skid Indicator",
+    "rating": 3,
+    "info": "Goes on when vehicle's traction control/anti-skid is in use. Usually means conditions are slippery. Drive slowly!"
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/jessica.png",
+    "clicked": false,
+    "content":"ABS Light",
+    "rating": 4,
+    "info": "Indicates that the Anti-lock Brake computer has set a code. Professional diagnosis recommended."
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/meeseeks.png",
+    "clicked": false,
+    "content": "Tire Pressure Monitoring System (TPMS)",
+    "rating": 4,
+    "info": "Indicates the TPMS system has found a tire with low air pressure or there may be a sensor malfunction. Check your tire pressure, & if problem consists, professional diagnosis recommended."
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/morty.png",
+    "clicked": false,
+    "content": "Windshield Fluid Low",
+    "rating": 2,
+    "info": "Indicates washer fluid is low. Not to worry! Just fill up your fluid tank; Driving without fluid is not recommended."
+  },
+  {
+    "id": 10,
+    "image": "/assets/images/mr.png",
+    "clicked": false,
+    "content": "Fog Light Indicator",
+    "rating": 2,
+    "info": "Indicates that the vehicle's front fog lamps are illuminated. No worry necessary, your car is letting you know they are working in foggy conditions."
+    
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/rick.png",
+    "clicked": false,
+    "content": "Airbag Indicator",
+    "rating": 5,
+    "info": "If light stays illuminated after starting, there is a fault in airbag system. Professional repair is highly recommended."
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/summer.png",
+    "clicked": false,
+    "content": "Seatbelt Unbuckled Indicator",
+    "rating": 1,
+    "info": "Indicates that you need to BUCKLE UP. No further explanation necessary."
+  }
+]
